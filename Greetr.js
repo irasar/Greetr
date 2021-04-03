@@ -1,5 +1,5 @@
 
-(function (global, $) {
+;(function (global, $) {
     // "new" an object
     var Greetr = function (firstName, lastName, language) {
         return new Greetr.init(firstName, lastName, language);
